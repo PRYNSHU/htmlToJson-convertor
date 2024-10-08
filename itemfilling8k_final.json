@@ -1,0 +1,303 @@
+[
+  {
+    "ticker": "TSLA",
+    "cik": "1318605",
+    "formType": "8-K",
+    "accessionNo": "0001628280-24-041816",
+    "periodOfReport": "2024-10-02",
+    "jsonContent": {
+      "item_9_1": {
+        "topic": "01",
+        "content": [
+          {
+            "type": "subtopic",
+            "subtopic": "01",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": ""
+              }
+            ]
+          },
+          {
+            "type": "subtopic",
+            "subtopic": "",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": ""
+              },
+              {
+                "type": "paragraph",
+                "text": "(d) Exhibits."
+              },
+              {
+                "type": "paragraph",
+                "text": ""
+              },
+              {
+                "type": "table",
+                "content": [
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "Exhibit No."
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Description"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "99.1"
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Press release of Tesla, Inc., dated October 2, 2024."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "104"
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "subtopic",
+            "subtopic": "",
+            "content": [
+              {
+                "type": "subtopic",
+                "subtopic": "Description",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "text": "99.1"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Press release of Tesla, Inc., dated October 2, 2024."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "104"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  {
+    "ticker": "TSLA",
+    "cik": "1318605",
+    "formType": "8-K",
+    "accessionNo": "0001628280-24-032603",
+    "periodOfReport": "2024-07-23",
+    "jsonContent": {
+      "item_2_2": {
+        "topic": "02 Results of Operations and Financial Condition.",
+        "content": [
+          {
+            "type": "subtopic",
+            "subtopic": "02 Results of Operations and Financial Condition.",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "On July 23, 2024, Tesla, Inc."
+              },
+              {
+                "type": "paragraph",
+                "text": "released its financial results for the quarter ended June 30, 2024 by posting its Second Quarter 2024 Update on its website. The full text of the update is attached hereto as Exhibit 99.1 and is incorporated herein by reference"
+              },
+              {
+                "type": "paragraph",
+                "text": "."
+              },
+              {
+                "type": "paragraph",
+                "text": ""
+              },
+              {
+                "type": "paragraph",
+                "text": "This"
+              },
+              {
+                "type": "paragraph",
+                "text": "information is intended to be furnished under Item 2.02 of Form 8-K, “Results of Operations and Financial Condition” and shall not be deemed “filed” for purposes of Section 18 of the Securities Exchange Act of 1934, as amended (the “Exchange Act”), or incorporated by reference in any filing under the Securities Act of 1933, as amended, or the Exchange Act, except as shall be expressly set forth by specific reference in such a"
+              },
+              {
+                "type": "paragraph",
+                "text": "filing."
+              }
+            ]
+          }
+        ]
+      },
+      "item_9_1": {
+        "topic": "01 Financial Statements and Exhibits.",
+        "content": [
+          {
+            "type": "subtopic",
+            "subtopic": "01 Financial Statements and Exhibits.",
+            "content": [
+              {
+                "type": "paragraph",
+                "text": "(d)"
+              },
+              {
+                "type": "paragraph",
+                "text": "Exhibits."
+              },
+              {
+                "type": "table",
+                "content": [
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "Exhibit No."
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Description"
+                      }
+                    ]
+                  },
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "99.1"
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Tesla, Inc. Second Quarter Update, dated July 23, 2024."
+                      }
+                    ]
+                  },
+                  {
+                    "type": "row",
+                    "content": [
+                      {
+                        "type": "cell",
+                        "text": "104"
+                      },
+                      {
+                        "type": "cell",
+                        "text": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "subtopic",
+            "subtopic": "",
+            "content": [
+              {
+                "type": "subtopic",
+                "subtopic": "Description",
+                "content": [
+                  {
+                    "type": "paragraph",
+                    "text": "99.1"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Tesla, Inc. Second Quarter Update, dated July 23, 2024"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "104"
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": "Cover Page Interactive Data File (embedded within the Inline XBRL document)."
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  },
+                  {
+                    "type": "paragraph",
+                    "text": ""
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+]
